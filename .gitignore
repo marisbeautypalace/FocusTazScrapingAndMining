@@ -1,0 +1,7 @@
+# Project exclude paths
+/venv/
+NLP/W2VModels/*
+NLP/ExtModels/*
+NLP/Dictionaries/*
+NLP/data/*
+NLP/Corpara/*
